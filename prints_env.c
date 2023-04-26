@@ -5,7 +5,7 @@
   *
   * Return: Nothing
   */
- 
+
 void _print_env(void)
 {
 	int i = 0, j = 0;
